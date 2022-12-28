@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/developwithdalal/static/css/main.724407c7.css",
+    "main.js": "/developwithdalal/static/js/main.dea538c4.js",
+    "index.html": "/developwithdalal/index.html",
+    "main.724407c7.css.map": "/developwithdalal/static/css/main.724407c7.css.map",
+    "main.dea538c4.js.map": "/developwithdalal/static/js/main.dea538c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.724407c7.css",
+    "static/js/main.dea538c4.js"
+  ]
+}
